@@ -1,0 +1,1 @@
+{"auth": ["admin:admin1234", "user:password"], "structure": {"/": {"file1.txt": "Hi world!", "file2.txt": "nothing here!", "folder": {"projects": {"lab1": {"half": {"deep.txt": "Why are you here?"}}}, "text.txt": "Hello world!", "test": {}}}}}
